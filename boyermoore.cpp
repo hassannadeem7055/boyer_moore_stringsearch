@@ -5,7 +5,7 @@
 using namespace std;
 
 int main(){
-    string patt = "t";
+    string patt = "test";
     string intext = "this is a test";
 
     // bad match table -- letter, val pair
